@@ -1,0 +1,3 @@
+# Contains local database credentials and the initial application password.
+config.properties
+/target/
